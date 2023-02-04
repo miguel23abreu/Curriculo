@@ -1,0 +1,20 @@
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 1.1em;
+}
+
+h2{
+    color: rgb(117, 117, 255);
+    text-transform: uppercase;
+}
+
+#content{
+    max-width: 888px;
+    margin: auto;
+}
+.info{
+    line-height: 7px;
+}
